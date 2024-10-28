@@ -6,7 +6,7 @@ This project focuses on developing a machine learning model to classify breast c
 
 Breast cancer classification is a crucial application of machine learning in healthcare. Early and accurate classification can significantly improve patient outcomes by enabling timely interventions.
 
-Features
+Features:
 
 Data preprocessing, including handling missing values and feature scaling
 
@@ -16,7 +16,7 @@ Comparison of different classification algorithms for optimal model selection
 
 Evaluation of model performance using accuracy, precision, recall, and F1-score
 
-Technologies and Libraries
+Technologies and Libraries:
 
 Programming Language: Python 3.x
 Libraries:
