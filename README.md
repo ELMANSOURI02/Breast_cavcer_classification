@@ -9,14 +9,20 @@ Breast cancer classification is a crucial application of machine learning in hea
 Features
 
 Data preprocessing, including handling missing values and feature scaling
+
 Exploration and visualization of key patterns in the dataset
+
 Comparison of different classification algorithms for optimal model selection
+
 Evaluation of model performance using accuracy, precision, recall, and F1-score
 
 Technologies and Libraries
 
 Programming Language: Python 3.x
 Libraries:
+
 Pandas and Numpy for data manipulation
+
 Matplotlib and Seaborn for data visualization
+
 Scikit-Learn for machine learning algorithms and evaluation metrics
